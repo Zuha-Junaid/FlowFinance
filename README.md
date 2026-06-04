@@ -20,7 +20,9 @@
 
 | Dashboard | Transactions |
 |-----------|-------------|
-| ![Dashboard](https://via.placeholder.com/400x250/f0fdf4/22c55e?text=Dashboard) | ![Transactions](https://via.placeholder.com/400x250/f0fdf4/22c55e?text=Transactions) |
+| <img width="1168" height="731" alt="image" src="https://github.com/user-attachments/assets/af70c79d-7655-4c9e-a485-fc3171957232" />
+ |<img width="1165" height="740" alt="image" src="https://github.com/user-attachments/assets/dbd56ea1-4c94-48fc-95b8-08bd881f0b40" />
+ |
 
 ---
 
