@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[flowfinance.netlify.app](https://flowfinance.netlify.app)**
+🔗 **[flow-finance-byzj.netlify.app](https://flow-finance-byzj.netlify.app/)**
 
 ---
 
